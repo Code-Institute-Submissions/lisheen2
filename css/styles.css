@@ -1,12 +1,12 @@
 body {
-    background-color: #E5C3D1;
     font-family: Helvetica, sans-serif;
+    background-color: #FFFAF0;
 }
 
 
 /* Header */
 .head-foot-color {
-    background-color: #9BCE64;
+    background-color: #A9A9A9;
 }
 
 .navbar{
@@ -29,8 +29,9 @@ body {
 
 #hero-image{
     width: 100%;
-    height:700px;
+    height: 65vh;
     background: url("../assets/hero-image.jpg") no-repeat center center;
+    margin-top: 15px;
 }
 
 #home-logo-div{
@@ -39,8 +40,8 @@ body {
     margin: auto;
     padding-top: 10px;
     animation-name: fade-logo;
-    animation-duration: 4s;
-    animation-delay: 2s;
+    animation-duration: 2s;
+    animation-delay: 1s;
     opacity: 0;
      animation-fill-mode: both;
 }
@@ -55,6 +56,13 @@ body {
     max-height: 100%;
 }
 
+#home-logo-outer{
+    background-color: #FFFAF0;
+    opacity: 0.8;
+    padding: 10px;
+    border-radius:10px;
+}
+
 .fb-review{
     opacity: 0.8;
 }
@@ -63,6 +71,32 @@ body {
     width: 100%;
     height: auto;
     padding-top: 30px;
+}
+
+.description-box {
+    padding: 20px 20px 20px 20px;
+
+}
+
+.description-box-inner {
+    background-color: #D3D3D3;
+    border-radius: 10px;
+
+}
+
+.description-fixed-width{
+    width: 90vw;
+    margin: 0 auto;
+}
+
+.description-text{
+    padding: 1em;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+   
+
+
 }
 
 /* Footer */
@@ -78,4 +112,5 @@ body {
 footer div div{
     padding-top: 10px;
     padding-bottom: 10px;
+    text-align: center;
 }
