@@ -137,3 +137,33 @@ footer div div{
 .residents-guide-div{
     padding-top: 15px;
 }
+
+/* Gallery */
+
+#gallery {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+    width:80%;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#gallery img{
+    width: 100%;
+}
+
+@media screen and (max-width: 943px){
+
+     #gallery{
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 800px){
+    #gallery{
+        column-count: 2;
+    }
+}
