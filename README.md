@@ -11,7 +11,7 @@
 This was the first of four Milestone Projects that make up the Software Development (Full Stack) at *The Code Institute*. 
 The main requirements were to make a responsive and static website with a minimum of three pages using HTML5 and CSS3.
 
-[Click here to view the project live.](LIVE LINK HERE PAGES)
+[Click here to view the project live.](https://souptar.github.io/lisheen2/index.html)
 
 
 ## UX
@@ -142,7 +142,7 @@ To make my project viewable to others, I deployed my project to GitHub Pages wit
 3. Here I selected 'master branch' as my Source.
 3. This deployed my project on GitHub Pages and allowed me to share the live website with others. 
 
-Use the following link to view my live project: [Lisheen Nursing Home](LIVE LINK HERE)
+Use the following link to view my live project: [Lisheen Nursing Home](https://souptar.github.io/lisheen2/index.html)
 
 More information about this process can be found on the following link: [Configuring a publishing source for your GitHub Pages site](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
