@@ -8,7 +8,7 @@
 
 *Lisheen Nursing Home* is a family-run nursing home in Rathcoole, Co. Dublin, Ireland. 
 
-This was the first of four Milestone Projects that made up the Full Stack Web Development Program at *The Code Institute*. 
+This was the first of four Milestone Projects that make up the Software Development (Full Stack) at *The Code Institute*. 
 The main requirements were to make a responsive and static website with a minimum of three pages using HTML5 and CSS3.
 
 [Click here to view the project live.](LIVE LINK HERE PAGES)
@@ -20,7 +20,7 @@ The main requirements were to make a responsive and static website with a minimu
 
 - To serve potential future residents of the nursing home as a hub of information where they can learn about Lisheen.  
 
-- To make *Lisheen Nursing* appear welcoming and appealing, by creating a design that was both streamlined and professional. 
+- To make *Lisheen Nursing Home* appear welcoming and appealing, by creating a design that was both streamlined and professional. 
 
 - To give families of residents more information about *Lisheen Nursing Home*. 
 
@@ -30,24 +30,23 @@ The main requirements were to make a responsive and static website with a minimu
 
 1. I am a user who is looking for a long-term care facility for myself or a family member and would like to see information about prospective nursing homes.
 
-2. I am a user who is a family member of a current resident of *Lisheen Nursing Home* for the address or contact inforamtion.
+2. I am a user who is a family member of a current resident of *Lisheen Nursing Home* and is looking for the address or contact inforamtion.
 
 3. I am a user who uses mobile devices primarily to browse the web and would like a website that is presentable and easy to use on a phone.
 
-4. I am a user who would like to see images and photos of a nursing home and it's facilities.
+4. I am a user who would like to see photos of a nursing home and it's facilities.
 
 ### Design Process
 
 1. I began the design process by outlining the key features that I wanted my website to have. This led me to decide on the three pages I would have on my website: 'Home', 'About' and 'Gallery'.
 
-2. The first major design decision was to keep the home page as clear and streamlined as possible, with a large hero image that would engage the user straight away. An image of the fron tof the nursing home I thought would be appropriate as it's a modern and appealing [building](assets/images/hero-image.png) I knew that it could form the basis of the rest of my design.
+2. The first major design decision was to keep the home page as clear and streamlined as possible, with a large hero image that would engage the user straight away. An image of the front of the nursing home I thought would be appropriate as it's a modern and appealing building.
 
 3. I sketched out a quick wireframe for each page using MS Paint and referred back to that throughout the coding process for layout.
 
 
 ### Wireframing my project
 
-Design for desktop devices:
 ![Homepage Wireframe](assets/images/wireframe-index.png)
 ![About page Wireframe ](assets/images/wireframe-about.png)
 ![Gallery Wireframe](assets/images/wireframe-gallery.png)
@@ -166,11 +165,11 @@ You can find both the source of this information and learn more about the proces
 
 ### Content
 
-The content of this website is almost entirely from Lisheen Nursing Home itself where I got the text for the text elements on the site as well as the images
+The content of this website is almost entirely from Lisheen Nursing Home itself where I got the text for the text elements on the site as well as the images.
 
 ### Media
 
-The images were all sent to me by Lisheen Nursing Home
+The images were all sent to me by Lisheen Nursing Home.
 
 
 ### Acknowledgements
